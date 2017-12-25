@@ -1,2 +1,2 @@
 # GPSWithArduino
-Interfacing GPS with Arduino
+Interfacing GPS with Arduino using the adafruit library
